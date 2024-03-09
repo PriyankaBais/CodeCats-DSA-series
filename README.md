@@ -24,3 +24,8 @@
 ![Screenshot (23)](https://github.com/PriyankaBais/CodeCats-DSA-series/assets/142255049/ec695273-9a1f-45e1-bbcd-8b598a8d2a80)
 ![Screenshot (24)](https://github.com/PriyankaBais/CodeCats-DSA-series/assets/142255049/c536684c-ffbb-45b2-8717-2df7754c1e7c)
 ![Screenshot (25)](https://github.com/PriyankaBais/CodeCats-DSA-series/assets/142255049/f1839366-c06d-46f2-96b0-69db281f9e93)
+![Screenshot (26)](https://github.com/PriyankaBais/CodeCats-DSA-series/assets/142255049/adf0ad0b-d8b7-4845-9b24-0110e050b3f9)
+![Screenshot (27))](https://github.com/PriyankaBais/CodeCats-DSA-series/assets/142255049/d8d86753-d486-4de0-83c2-53ea4c511a6d)
+![Screenshot (28)](https://github.com/PriyankaBais/CodeCats-DSA-series/assets/142255049/ea66e7b1-6ed6-440d-aefa-833ad714dc57)
+![Screenshot (29)](https://github.com/PriyankaBais/CodeCats-DSA-series/assets/142255049/145b16ff-f885-4bee-a695-303607f16d68)
+![Screenshot(30)](https://github.com/PriyankaBais/CodeCats-DSA-series/assets/142255049/334a622d-80e9-4e8c-9243-363a718b92e8)
